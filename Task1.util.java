@@ -1,3 +1,4 @@
+// Составить алгоритм: если введенное число больше 7, то вывести “Привет”
 import java.util.Scanner;
 
 public class Main {
