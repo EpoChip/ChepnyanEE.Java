@@ -8,6 +8,8 @@ public class Main {
 
         if (number > 7) {
             System.out.println("Привет");
+        } else {
+            System.out.println("Число меньше или равно 7");
         }
     }
 }
